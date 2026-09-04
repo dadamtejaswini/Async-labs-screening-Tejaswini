@@ -6,7 +6,7 @@ Async Labs Internship Screening • Candidate Material
 
 ## What I built
 
-I designed and built an interactive, responsive product showcase website for the Async Labs 7.5-inch Smart Workspace Display. The website includes a responsive product landing page, interactive display simulator with Calendar, Tasks, Focus and Status modes, product showcase, and a companion workflow concept. The project was implemented as a frontend-only React application with responsive layouts, reusable components, animations and accessibility considerations.
+I designed and built an interactive and responsive website for the Async Labs 7.5-inch Smart Workspace Display. It includes a product landing page, interactive display simulator with Calendar, Tasks, Focus and Status modes, a product showcase, and a companion workflow concept. I built the project using React with responsive layouts, reusable components, animations and basic accessibility considerations.
 
 ## How to view/use it
 
@@ -30,11 +30,14 @@ https://www.figma.com/board/K6UJM2J1rOiBKKz4WWn0UA/Async-Labs-T5
 https://www.loom.com/share/ec86ced9171a4210889174af5c548ddd
 
 **Live Demo:**
+Viewing note: 80% browser zoom is recommended for the best visualisation.
+
+https://async-labs-screening-tejaswini.vercel.app/    
 
 
 ## Incomplete / Next Steps
 
-The core website experience and primary interactions are complete. The interactive 3D teardown exploration, custom drag-and-drop widget builder, and real device synchronization remain unfinished. Next steps would include detailed internal 3D modeling, robust widget positioning/resizing and integration with a real device/API.
+The main website and primary interactions are completed. Some parts like the 3D teardown, custom drag-and-drop widget builder, and real device synchronization are still unfinished. If I continued working on the project, I would improve these features and connect the companion interface to a real device/API.
 
 ## Time spent
 
@@ -43,3 +46,5 @@ The core website experience and primary interactions are complete. The interacti
 ## Tools used
 
 React, JavaScript, HTML5, CSS3, Vite, Figma, Git/GitHub, Loom
+
+**AI assistance:** ChatGPT and Gemini were used during development for coding assistance, debugging and exploring implementation ideas.
