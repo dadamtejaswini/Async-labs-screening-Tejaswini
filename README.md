@@ -30,7 +30,8 @@ https://www.figma.com/board/K6UJM2J1rOiBKKz4WWn0UA/Async-Labs-T5
 https://www.loom.com/share/ec86ced9171a4210889174af5c548ddd
 
 **Live Demo:**
-Viewing note: 80% browser zoom is recommended for the best visualisation.
+
+**Viewing note:** 80% browser zoom is recommended for the best visualisation.
 
 https://async-labs-screening-tejaswini.vercel.app/    
 
