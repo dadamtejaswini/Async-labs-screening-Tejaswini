@@ -48,4 +48,4 @@ The main website and primary interactions are completed. Some parts like the 3D 
 
 React, JavaScript, HTML5, CSS3, Vite, Figma, Git/GitHub, Loom
 
-**AI assistance:** ChatGPT and Gemini were used during development for coding assistance, debugging and exploring implementation ideas.
+**AI assistance:** Claude and Gemini were used during development for coding assistance, debugging and exploring implementation ideas.
